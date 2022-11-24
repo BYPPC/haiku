@@ -16,6 +16,6 @@ build/user_config_headers
 *.pyc
 *.pyo
 
-# Mac OS X directory attributes (created by Mac OS X when opening files or
+# macOS directory attributes (created by Mac OS X when opening files or
 # directories)
 .DS_Store
